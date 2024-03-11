@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container{
+    height:99vh;
+    margin:3px;
+}
+.container-border-style{
+    border:1px solid black;
+    padding:5px;
+    border-radius: 5px;
+}
+.first-container{
+    height:99vh;
+}
+.second-container{
+    height:99vh;
+}
+.profile-div{
+    margin-left:-10px;
+    margin-right:-10px;
+    padding:5px;
+}
+.main-logo{
+    height:20px;
+    width:20px;
+}
+.profile-pic-div{
+    text-align: right;
+    height:30px;
+    width:50%;
+}
+.innovate-heading{
+    font-size:8px;
+    margin-top:10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.hr-line{
+    margin-top:-5px;
+}
+.team-heading{
+    font-size:13px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.select-class{
+    border:none;
+
+}
+.mar{
+    margin-top:15vh;
+}
+.products-heading{
+    font-size:20px;
+    font-weight: bold;
+}
+.select-width{
+    width:100%;
+}
+.products-div{
+    height:5vh;
+    width:100%;
+    display: flex;
+    justify-content: end;
+}
+table{
+    border-collapse: collapse;
+    width:100%;
+    text-align: center;
+}
+th,td{
+    border:1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+.bottom-elements-mar{
+    margin-top:30vh;
+
+}
+.bottom-elements{
+    display:flex;
+    flex-direction: column;
+    justify-content: end;
+    height:30%;
+}
